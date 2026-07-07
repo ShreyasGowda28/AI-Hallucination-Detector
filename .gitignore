@@ -3,3 +3,5 @@ selfcheckgpt.egg-info
 examples/
 dist/
 *.ipynb_checkpoints/
+__pycache__/
+*.pyc
